@@ -16,7 +16,7 @@ for i in numbers:
     else:
         not_primes.append(i)
 
-print("Исходный список чисел:", numbers)
+print("Список чисел:", numbers)
 print("Простые числа:", primes)
 print("Составные числа:", not_primes)
 
